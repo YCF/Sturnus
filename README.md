@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/github/license/gogf/gf.svg?style=flat)](https://github.com/YCF/Sturnus)
 
 **Sturnus** is a File Manager using vuejs as frontend and golang as backend with lightning fast file searching.
+
 Inspired from [VueDisk](https://github.com/ashishdoneriya/vuedisk).
 
 
